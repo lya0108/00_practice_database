@@ -4,12 +4,12 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="description" content="Put Content Here">
-    <meta name="keywords" content="Put keywords here">
-    <meta name="author" content="Put your name here">
+    <meta name="description" content="DB_Practice Book Review">
+    <meta name="keywords" content="books, reading, fiction, non-fiction, genre, reviews">
+    <meta name="author" content="Andy Ly">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <title>Website Title goes here</title>
+    <title>DB_Practice Book Review</title>
     
     <!-- Edit the link below / replace with your chosen google font -->
     <link href="https://fonts.googleapis.com/css?family=Lato%7cUbuntu" rel="stylesheet"> 
@@ -35,14 +35,20 @@
             </div>    <!-- / logo -->
         </a>
             
-            <h1>Website Name</h1>
+            <h1>Tree reading</h1>
         </div>    <!-- / banner -->
 
         <!-- Navigation goes here.  Edit BOTH the file name and the link name -->
         <div class="box side">
-            <h2>Side Bar</h2>
+            <h2>Search</h2>
 
-            <p>The sidebar goes here - please edit me in due course</p>
+            <ol>
+                <li>List</li>
+                <li>List</li>
+                <li>List</li>
+                <li>List</li>
+                <li>List</li>
+            </ol>
 
         </div>    <!-- / nav -->        
         
@@ -65,7 +71,7 @@
         
 
         <div class="box footer">
-            CC yourname 20XX
+            CC Andy Ly 2022
         </div>    <!-- / footer -->
     
     </div>  <!-- / wrapper  -->
